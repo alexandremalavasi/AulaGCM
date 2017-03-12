@@ -1,0 +1,5 @@
+c:\users\alexandre\documents\visual studio 2012\Projects\DemoTesteUnitario\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+c:\users\alexandre\documents\visual studio 2012\Projects\DemoTesteUnitario\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+c:\users\alexandre\documents\visual studio 2012\Projects\DemoTesteUnitario\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+c:\users\alexandre\documents\visual studio 2012\Projects\DemoTesteUnitario\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+c:\users\alexandre\documents\visual studio 2012\Projects\DemoTesteUnitario\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
